@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
+.box {
+
+     width: 100px;
+     height: 100px; 
+     background: #64FA59;
+     padding: 20px;
+     border: 10px dashed #FF0000; 
+}
+
+
+/* 'border' tem 3 configurações...
+    1. Tamanho da borda. Número e px.
+    2. Tipo da borda. Selecionar o tipo da borda.
+    'dashed' borda trasejada/ 'solid' borda solida.
+    3. Cor da borda. Escolher a cor.
+*...{}...box-sizing (Essa opção ja faz as somas)...
+ 
+*...{}...box-sizing (faz as somas)
+'content-box' ele vai almentando a caixa.
+'border-box', ele mantém o tamanho da caixa e só acrecenta
+ alterações dentro da caixa. ('width e height')
+*/
+
+
+
+
+
+
+
+
+
+
+
+
